@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './TicTacToe.css'
 
+//New to commit with correct name
 function Square(props) {
   return (
     <button className="square" onClick={props.onClick}>
